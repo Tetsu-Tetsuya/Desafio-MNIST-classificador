@@ -27,7 +27,7 @@ Para executar este código localmente, siga as instruções abaixo:
 Baixe o código fonte do repositório do GitHub.
 
 2. Descompactando a Pasta:
-Caso o código esteja em um arquivo compactado, descompacte a pasta para um diretório de sua escolha.
+O código está em um arquivo compactado, descompacte a pasta para um diretório de sua escolha.
 
 3. Abrindo a Pasta no VSCode:
 Abra o Visual Studio Code (VSCode).
