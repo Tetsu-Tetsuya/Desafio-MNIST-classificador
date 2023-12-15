@@ -21,14 +21,28 @@ Este é um projeto simples que implementa um modelo de Rede Neural Convolucional
 
 ## Como Executar
 
-Para executar o código, siga as instruções abaixo:
-1. Baixe o código fonte
-2. Descompate a pasta
-3. Abra a pasta usando o VScode
-4. Abra o terminal
-5. Execute o comando para baixar as bibliotecas necessarias: pip install tensorflow matplotlib
-6. Execute o comando para executar o código: python main.py
+Para executar este código localmente, siga as instruções abaixo:
 
+1. Baixando o Código Fonte:
+Baixe o código fonte do repositório do GitHub.
+
+2. Descompactando a Pasta:
+Caso o código esteja em um arquivo compactado, descompacte a pasta para um diretório de sua escolha.
+
+3. Abrindo a Pasta no VSCode:
+Abra o Visual Studio Code (VSCode).
+Selecione "File -> Open Folder" e escolha a pasta do código fonte.
+
+4. Abrindo o Terminal no VSCode:
+No menu do VSCode, selecione "View -> Terminal" para abrir o terminal integrado.
+
+5. Instalando as Bibliotecas Necessárias:
+Execute o seguinte comando no terminal para instalar as bibliotecas necessárias: pip install tensorflow matplotlib
+
+6. Executando o Código:
+No terminal, execute o seguinte comando para iniciar a execução do código: python main.py
+
+Certifique-se de que o ambiente Python desejado esteja ativado.
 ## Resultados
 
 O resultado do código deverá ser um grafico semelhante ao de baixo:
